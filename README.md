@@ -1,6 +1,6 @@
 # Mobile-Data-Acquisition-Project
 Mobile Data Acquisition (DAQ) System designed for aeroderivative gas turbine test cells. Developed a standalone, modular platform for real-time engine performance monitoring using Keyence instrumentation, pressure transmitters, and thermocouple inputs.
-Overview
+## Overview
 
 This project involved the design, development, and deployment of a mobile Data Acquisition (DAQ) system used to collect real-time performance data from aeroderivative gas turbines during test cell operations. The system was developed during my Design Engineering Internship at PROENERGY to address the challenge of acquiring high-fidelity engine data without introducing any interference to test cell control systems.
 
